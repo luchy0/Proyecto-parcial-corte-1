@@ -1,0 +1,93 @@
+.header1{
+    background-color:#062963 ;
+    width: 100%;
+    display: flex;
+    color:rgba(255, 255, 255, 0.675);
+    padding: 10px;
+    font-size: 20px;
+}
+#Uno{
+    color: white;
+    margin-right: 150px ;
+}
+#dos{
+    color: rgba(255, 255, 255, 0.675);
+    margin-right: auto;
+}
+.header2{
+    background-color: #ffffff;
+    width: 100%;
+    color: #898680;
+}
+.cuerpo{
+    width: 100%;
+    display: flex;
+    background-color: #ffffff;
+}
+.columna1{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+}
+#lala{
+    width: 40%;
+}
+#pepe{
+    width: 60%;
+    margin-right: 0%;
+}
+
+#buscar{
+    display: flex;
+}
+#tiempo1{
+    display: flex;
+}
+#tiempo2{
+    display: flex;
+    margin-right: 0%;
+}
+#tiempo2_1{
+    margin-right:10px;
+}
+#view{
+    display: flex;
+}
+.columna2{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+}
+.arriba{
+    background-color: #ab0614;
+    color: white;
+}
+#texImagen{
+    display: flex;
+    margin-left: 7px;
+}
+#pie{
+    display: flex;
+    margin-left: 7px;
+}
+.abajo{
+    display: flex;
+    background-color: #f6f6f6;
+}
+#pie2{
+    display: flex;
+}
+.izquierdo{
+    width: 60%;
+    margin-right: 10px;
+}
+.derecho{
+    width: 40%;
+}
+.columna3{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
